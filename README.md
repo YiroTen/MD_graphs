@@ -1,2 +1,2 @@
 # MD_graphs
-Molecular Dynamics Graphs of Proteins vs FDA Drugs
+Molecular Dynamic Intercative Graphs of Dengue E Proteins vs FDA Drugs
