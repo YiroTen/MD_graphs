@@ -6,10 +6,10 @@ with the commands trjconv and rms. Check the GROMACS documentation, these comman
 tpr and the trajectory xtc to produce the xvg file Time vs RMSD of the Protein and ligand which then is Graphicated using
 Python, the files are cleaned from comments ant the time is converted from ps to ns, then grouped by protein or ligand
 
-In the Notebooks, 30 Molecular Dynamic Simulations of the Dengue E protein vs FDA drugs are analyzed to produce
+In the Notebooks, 30 Molecular Dynamic Simulations of the Dengue E protein vs FDA drugs were analyzed to produce
 interactive graphs 
 
-Finaly an HTML is produced which you can share 
+Finally an HTML is produced which you can share 
 
-Enjoy
+Enjoy \n
 YT
